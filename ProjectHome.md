@@ -1,0 +1,1 @@
+Workstations is written in C++ and uses QT for its user interface.
