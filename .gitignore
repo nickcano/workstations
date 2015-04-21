@@ -1,0 +1,24 @@
+syntax: glob
+*.exe
+*.pdb
+*.obj
+*ipch*
+ipch/*
+*.tlog
+*.manifest
+*.ilk
+*.cache
+*.idb
+*.opensdf
+
+*/Debug/*
+*/Release/*
+Debug/*
+Release/*
+*/GeneratedFiles/*
+GeneratedFiles/*
+
+*.suo
+*.sdf
+*.user
+*.ncb
